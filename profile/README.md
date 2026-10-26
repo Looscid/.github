@@ -1,6 +1,8 @@
 # Looscid
 
-Accessibility first, always. Looscid. Just dream.
+Just Dream
+
+Accessibility first, always.
 
 A social app on Nostr, made for VoiceOver, braille and keyboard from day one.
 
